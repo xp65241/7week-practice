@@ -1,0 +1,6 @@
+framework module Pods_bcsd8week {
+  umbrella header "Pods-bcsd8week-umbrella.h"
+
+  export *
+  module * { export * }
+}
